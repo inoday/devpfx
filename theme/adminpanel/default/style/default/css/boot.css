@@ -1,0 +1,79 @@
+
+.theme_drop {
+	position:absolute;
+	z-index:100000;
+}
+
+#admincp_theme_manage ul.theme_drop {
+	padding-left:0px;
+	background:#fff;
+	top:50px;
+	width:200px;
+}
+
+#admincp_theme_manage ul.theme_drop {
+	display:none;
+}
+
+#admincp_theme_manage ul.theme_drop li {
+	display:block;
+}
+
+#admincp_theme_manage ul.theme_drop li a, #admincp_theme_manage ul.theme_drop li a:hover {
+	border-left:0px;
+	padding:5px 0px;
+	font-size:13px;
+	text-transform:none;
+	text-indent:10px;
+	height:auto;
+	line-height:normal;
+}
+
+.unity_loader {
+	text-align:center;
+}
+
+.unity_loader h1 {
+	font-size:25px;
+	padding-top:50px;
+	padding-bottom:30px;
+	font-weight:300;
+}
+
+.large_loader {
+	background:url('../image/ajax/loader.gif') no-repeat;
+	width:50px;
+	height:50px;
+}
+
+.new_product {
+	background:#000;
+	color:#fff;
+	text-align:center;
+	padding:20px 0px;
+	border-bottom:1px #3f3f3f solid;
+}
+
+.manage_module {
+	margin-top:20px;
+}
+
+.manage_module li {
+	display:inline-block;
+	margin-right:10px;
+}
+
+.manage_module li a, .manage_module li a:hover {
+	display:block;
+	background:#f2f2f2;
+	color:#999999;
+	padding:12px 18px;
+	text-decoration:none;
+	transition: all 0.50s ease;
+}
+
+.manage_module li a:hover {
+	background:#fff;
+	color:#222;
+	transition: all 0.50s ease;
+}

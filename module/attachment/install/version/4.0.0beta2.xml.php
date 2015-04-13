@@ -1,0 +1,11 @@
+<upgrade>
+	<phrases>
+		<phrase>
+			<module_id>attachment</module_id>
+			<version_id>4.0.0beta1</version_id>
+			<var_name>admin_menu_categories</var_name>
+			<added>1408457125</added>
+			<value>Categories</value>
+		</phrase>
+	</phrases>
+</upgrade>

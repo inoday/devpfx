@@ -1,0 +1,83 @@
+
+body
+{
+	background:#f2f2f2;
+}
+
+#admincp_login {
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin-left:-200px;
+	width:400px;
+		
+	text-align:left;
+	background:#fff;
+	color:#222;
+	border-radius:3px;
+	padding:10px;
+	display:none;
+	box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.1);
+}
+
+#admincp_login .table {
+	border:1px #dfdfdf solid;
+}
+
+#admincp_login .table input {
+	background:transparent;
+	border:0px;
+	padding:0px;
+	width:100%;
+	margin:0px;
+	font-size:15px;
+}
+
+#admincp_login .table_header {
+	background:transparent;
+	padding-bottom:10px;
+}
+
+#admincp_login .table {
+	background:#fff;
+	padding:10px;
+}
+
+#admincp_login .table_clear {
+	border:0px;
+	padding:0px;
+	margin:0px;
+}
+
+div.adminp_login_body
+{	
+	position:relative;	
+}
+
+div#admincp_site_link
+{
+	position:absolute;
+	right:10px;
+	top:15px;	
+}
+
+div#admincp_site_link a,
+div#admincp_site_link a:hover
+{
+	color:#808080;
+}
+
+input#admincp_btn_login
+{
+	
+}
+
+.table_left
+{
+	width:190px;
+}
+
+.table_right
+{
+	margin-left: 200px;
+}
